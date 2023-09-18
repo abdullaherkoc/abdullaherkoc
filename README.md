@@ -1,5 +1,7 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
 <h1 align="center">Hi 👋, I'm Abdullah Erkoç</h1>
 <h3 align="center">I'm passionate Software Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullaherkoc&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaherkoc" /> </p>
 
@@ -11,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdullah erkoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah erkoc" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullaherkoc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullaherkoc_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdullah erkoc" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="abdullah erkoc" height="50" width="60" /></a>
+<a href="https://instagram.com/abdullaherkoc_" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="abdullaherkoc_" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
