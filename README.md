@@ -33,8 +33,7 @@
 </p>
 
 <h3 align="left">PROJECTS</h3> 
-> The videos I shared below were used to promote the projects I developed within Reo-tek.
-
+*The videos I shared below were used to promote the projects I developed within Reo-tek.*
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullaherkoc&show_icons=true&locale=en&layout=compact" alt="abdullaherkoc" /></p>
