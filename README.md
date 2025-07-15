@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abdullah Erkoç</h1>
-<h3 align="center">I'm passionate Software Developer</h3>
+<p align="center">
+  <img src="[https://github.com/KULLANICI_ADIN/REPO_ADIN/blob/main/images/kapak.png?raw=true](https://github.com/abdullaherkoc/abdullaherkoc/issues/1#issue-3233374449)" alt="Abdullah Erkoç Banner" />
+</p>
+
+<h1 align="center">Hi there 👋 I'm Abdullah Erkoç </h1>
+<h3 align="center">I'm passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullaherkoc&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaherkoc" /> </p>
