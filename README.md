@@ -32,8 +32,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">PROJECTS</h3> 
-*The videos I shared below were used to promote the projects I developed within Reo-tek.*
+<h3 align="left">PROJECTS</h3>
+<p><em>The videos I shared below were used to promote the projects I developed within Reo-tek.</em></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullaherkoc&show_icons=true&locale=en&layout=compact" alt="abdullaherkoc" /></p>
