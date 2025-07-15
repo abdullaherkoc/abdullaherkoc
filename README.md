@@ -3,13 +3,11 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&center=true&width=900&lines=Hi+there+👋,+I'm+Abdullah+Erkoç)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&center=true&width=900&lines=Software+Engineer;Unity+Developer;+Technology+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&center=true&width=900&lines=Software+Engineer+Unity+Developer+Technology+Enthusiast)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **ReoTek as a Unity Developer**
-
-- 🌱 I’m currently learning **C#,Unity,XR,Python**
-
-- 📫 How to reach me **e.abdullah2003@gmail.com**
+- 🔭 I’m currently working as a **Unity Developer at ReoTek**  
+- 🌱 I’m currently learning **C#**, **Python**, **Unity**, **OpenCV**, **Unreal Engine**, and **C++**  
+- 📫 You can reach me at **aabdullaherkoc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
