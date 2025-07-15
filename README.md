@@ -34,7 +34,7 @@
 
 
 <h3 align="left">PROJECTS</h3>
-<p><u>The videos I shared below were used to promote the projects I developed within Reo-tek.</u></p>
+<p><em>The videos I shared below were used to promote the projects I developed within Reo-tek.</em></p>
 <hr>
 
 
