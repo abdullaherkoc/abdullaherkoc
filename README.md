@@ -17,17 +17,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- C# -->
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a> 
 
-<a href="https://unity.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark-white.svg" alt="unity" width="40" height="40"/>
-</a>
+  <!-- Unity (açık renk ikon) -->
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark-white.svg" alt="unity" width="40" height="40"/>
+  </a>
 
- <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Unreal_Engine_Logo.svg" alt="unreal" width="40" height="40"/>
-</a>
+  <!-- Unreal Engine (beyaz logo) -->
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Unreal_Engine_Logo.svg" alt="unreal" width="40" height="40"/>
+  </a>
 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
