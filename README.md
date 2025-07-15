@@ -39,7 +39,33 @@
 
 <p><em>Kıbrıs Barbarlık Müzesi</em></p>
 
-https://github.com/user-attachments/assets/415101be-73d6-4255-9f72-fe84dffb5fe7
+https://github.com/user-attachments/assets/dc3027fa-a8be-472d-b5dc-a2d531abe1e2
+
+Audio Guide Mobile App (Sesli Rehber Mobil Uygulaması)
+
+https://play.google.com/store/apps/details?id=com.ReoTek.BarbarlikMuzesi&hl=tr
+
+<p><em>İstanbul Sinema Müzesi</em></p>
+AR Room Experience (AR Deneyim Odası)
+
+https://www.youtube.com/watch?v=LFAkkYenxJk
+
+<p><em>Ankara Oyuncak Müzesi</em></p>
+
+https://play.google.com/store/apps/details?id=com.Kreatin.OyuncakMuzesiAR&hl=tr
+
+<p><em>Ankara CerModern – Gizemli Dünyalar: Mayalar Sergisi</em></p>
+
+https://github.com/user-attachments/assets/cf6d918c-a4e4-4953-b576-50486ec36a7d
+
+
+<p><em>Ankara CerModern – Kökler ve İzler: Frida Sergisi</em></p>
+
+https://github.com/user-attachments/assets/0f1b6bb7-fd5f-42ec-b736-7eb6afd39c8b
+
+<p><em>Additional Projects</em></p>
+
+https://github.com/user-attachments/assets/983e20af-5df7-4d82-b1be-ad2cb7b05027
 
 
 
