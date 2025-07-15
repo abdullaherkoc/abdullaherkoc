@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/KULLANICI_ADIN/REPO_ADIN/blob/main/images/kapak.png?raw=true](https://github.com/abdullaherkoc/abdullaherkoc/issues/1#issue-3233374449)" alt="Abdullah Erkoç Banner" />
+  <img src="https://github.com/user-attachments/assets/2cee19d1-6057-4c2d-b195-eee8ea4aa2df" alt="Abdullah Erkoç Banner" />
 </p>
 
 <h1 align="center">Hi there 👋 I'm Abdullah Erkoç </h1>
