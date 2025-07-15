@@ -75,8 +75,6 @@ https://github.com/user-attachments/assets/fc9adb0c-9071-41e9-82c7-a3e3b81c5ef0
 
 https://github.com/user-attachments/assets/b7d17e3b-c2d3-4afd-bebe-5c8db80e271d
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullaherkoc&show_icons=true&locale=en" alt="abdullaherkoc" /></p>
+<hr>
 
 
