@@ -2,9 +2,14 @@
   <img src="https://github.com/user-attachments/assets/2cee19d1-6057-4c2d-b195-eee8ea4aa2df" alt="Abdullah Erkoç Banner" />
 </p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Abdullah+Erkoç;A+Passionate+Software+Engineer&size=60">
-</a>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdullahekroc">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Abdullah+Erkoç...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 
 - 🔭 I’m currently working as a **Unity Developer at ReoTek**  
 - 🌱 I’m currently learning **C#**, **Python**, **Unity**, **OpenCV**, **Unreal Engine**, and **C++**  
