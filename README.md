@@ -34,7 +34,8 @@
 
 <h3 align="left">PROJECTS</h3>
 <p><em>The videos I shared below were used to promote the projects I developed within Reo-tek.</em></p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11EAF7&background=375B7E&repeat=false&width=435&lines=PROJECTS" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=41&pause=1000&color=11EAF7&background=375B7E&repeat=false&width=2000&height=100&lines=The+videos+I+shared+below+were+used+to+promote+the+projects+I+developed+within+Reo-tek)](https://git.io/typing-svg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullaherkoc&show_icons=true&locale=en&layout=compact" alt="abdullaherkoc" /></p>
 
