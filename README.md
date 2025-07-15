@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/2cee19d1-6057-4c2d-b195-eee8ea4aa2df" alt="Abdullah Erkoç Banner" />
 </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdullahekroc">
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
