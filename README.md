@@ -2,11 +2,8 @@
   <img src="https://github.com/user-attachments/assets/2cee19d1-6057-4c2d-b195-eee8ea4aa2df" alt="Abdullah Erkoç Banner" />
 </p>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&center=true&width=900&lines=Hi+there+👋+I'm+Abdullah+Erkoç)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&center=true&width=900&lines=Software+Engineer)](https://git.io/typing-svg)//
-
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=abdullaherkoc&label=Profile%20views&color=0e75b6&style=flat" alt="abdullaherkoc" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&center=true&width=900&lines=Hi+there+👋,+I'm+Abdullah+Erkoç)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&center=true&width=900&lines=Software+Engineer;Unity+Developer;Technology+Enthusiast)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **ReoTek as a Unity Developer**
 
