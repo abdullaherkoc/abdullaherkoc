@@ -67,11 +67,16 @@ https://github.com/user-attachments/assets/0f1b6bb7-fd5f-42ec-b736-7eb6afd39c8b
 
 https://github.com/user-attachments/assets/983e20af-5df7-4d82-b1be-ad2cb7b05027
 
+https://github.com/user-attachments/assets/fb2f445f-56fa-45e6-9ef8-6585556733a3
+
+https://github.com/user-attachments/assets/a56210fc-d39b-4916-b1c2-bb803ecdc585
+
+https://github.com/user-attachments/assets/fc9adb0c-9071-41e9-82c7-a3e3b81c5ef0
+
+https://github.com/user-attachments/assets/b7d17e3b-c2d3-4afd-bebe-5c8db80e271d
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullaherkoc&show_icons=true&locale=en&layout=compact" alt="abdullaherkoc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullaherkoc&show_icons=true&locale=en" alt="abdullaherkoc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullaherkoc&" alt="abdullaherkoc" /></p>
 
