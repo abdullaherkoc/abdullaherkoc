@@ -10,7 +10,7 @@
   </a>
 </h1>
 
-- 🔭 I’m currently working as a **Unity Developer at ReoTek**  
+- 🔭 I’m currently working as a **Software Developer at ReoTek**  
 - 🌱 I’m currently learning **C#**, **Python**, **Unity**, **OpenCV**, **Unreal Engine**, and **C++**  
 - 📫 You can reach me at **aabdullaherkoc@gmail.com**
 
