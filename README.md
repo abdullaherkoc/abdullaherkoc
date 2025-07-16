@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2cee19d1-6057-4c2d-b195-eee8ea4aa2df" alt="Abdullah Erkoç Banner" />
+  <img src="https://github.com/user-attachments/assets/ecb092cf-9844-414a-8dc1-7b72bd2ff977" alt="Abdullah Erkoç Banner" />
 </p>
 
 
