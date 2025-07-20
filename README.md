@@ -65,6 +65,10 @@ https://github.com/user-attachments/assets/0f1b6bb7-fd5f-42ec-b736-7eb6afd39c8b
 
 <p><em>Additional Projects</em></p>
 
+Biological Defence Project
+
+https://github.com/endererolwork/endererolwork/assets/112380859/507f828f-2877-4208-8019-19808acddcb3
+
 https://github.com/user-attachments/assets/983e20af-5df7-4d82-b1be-ad2cb7b05027
 
 https://github.com/user-attachments/assets/fb2f445f-56fa-45e6-9ef8-6585556733a3
